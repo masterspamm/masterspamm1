@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("544247721910075394")
+let channel =     client.channels.get("593910247190560784")
 setInterval(function() {
 channel.send(`HI FREE CREDITS FROM SKILLZ`);
 }, 30)
